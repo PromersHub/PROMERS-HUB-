@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PromersHub/Loader-Prem_lua/refs/heads/main/Loader%20Premium.txt"))()
+               
